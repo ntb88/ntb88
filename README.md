@@ -52,5 +52,5 @@ This section showcases my progress in mastering React and other frontend technol
 📫 **Let's Connect!**  
 Feel free to reach out if you'd like to collaborate, share knowledge, or just chat about tech!
 
-- [LinkedIn](linkedin.com/in/ntbaby)
+- [LinkedIn](https://linkedin.com/in/ntbaby)
 
